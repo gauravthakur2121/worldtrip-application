@@ -1,0 +1,1 @@
+import{a as o,L as l}from"./index-4f5e8933.js";const s="_logo_kqxlp_1",t={logo:s};function n(){return o(l,{to:"/",children:o("img",{src:"/logo-wt-2.png",alt:"WorldWise logo",className:t.logo})})}export{n as L};

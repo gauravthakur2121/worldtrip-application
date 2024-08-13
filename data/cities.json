@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Aligarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-11T11:22:13.871Z",
+      "notes": "nice trip",
+      "position": {
+        "lat": "27.821544870751726",
+        "lng": "78.25561523437501"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Khurja",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-11T11:23:42.205Z",
+      "notes": "nice trip ",
+      "position": {
+        "lat": "28.254012996357464",
+        "lng": "77.90130615234376"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Agra",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-11T11:46:14.793Z",
+      "notes": "ugt8tt78y",
+      "position": {
+        "lat": "27.18331441845839",
+        "lng": "78.06884765625001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Navalpino",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-11T13:19:18.198Z",
+      "notes": "hoihori",
+      "position": {
+        "lat": "39.28713539299177",
+        "lng": "-4.636230468750001"
+      },
+      "id": 4
+    }
+  ]
+}
